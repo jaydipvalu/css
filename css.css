@@ -1,0 +1,37 @@
+body {
+background-color: ;
+background-image:url("https://images.pexels.com/photos/768943/pexels-photo-768943.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+background-repeat: no-repeat;
+background-position: right top;
+margin-right: 100px;
+}
+h1 {
+  color: red;
+  text-align: center;
+  border: 2px solid  #ff0af7;
+}
+p {
+  font-family: Comic;
+  font-size: 20px;
+}
+.center{
+  text-align: center;
+  color: #ff0af7;
+}
+.header {
+  text-align:center;
+  color: red;
+}
+.one {
+  font-size: 300%;
+
+}
+h3{
+  background-color: #cafc8d;
+}
+div{
+  background-color: #c7bbed;
+}
+p.color{
+  background-color: #f5787a;
+}

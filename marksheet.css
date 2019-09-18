@@ -1,0 +1,75 @@
+img{
+  padding-left:500px;
+  width: 100px;
+  height:120px;
+  margin-top:20px;
+}
+body {
+background-position:;
+background-repeat: no-repeat;
+
+}
+h1{
+text-align:center;
+margin-top:-60px;
+color:#3f65fc;
+text-shadow:5px 6px 0px #34CE24;
+
+
+}
+address{
+  text-align: center;
+  font-size: 15px;
+  margin-top: -20px;
+  margin-left: 60px;
+}
+.top table,th,td{
+  border:1px solid black;
+  margin-top:60px;
+  font-size: 20px;
+}
+.center table,th,td {
+  border: 1px solid black;
+  margin-top: 40px;
+  padding: 10px;
+}
+.table table,th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+
+}
+.center tr:nth-child(even){
+  background-color:#6eff;
+}
+.center tr:nth-child(odd){
+  background-color:#c2ffa6;
+}
+.table table {
+  background-color:#3bf748;
+
+}
+.center table{
+  background-image: url("file:///D:/programing/arb.jpg");
+  align:center;
+}
+.top table{
+  background-image: url("file:///D:/programing/arb.jpg");
+}
+.table table{
+  background-image: url("file:///D:/programing/arb.jpg");
+
+}
+h2{
+  color:#fa6305;
+}
+.center{
+  align:center;
+}
+
+input{
+  text-align: center;
+}
+.but1{
+  align:center;
+}

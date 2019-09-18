@@ -1,0 +1,35 @@
+table, th, td {
+  border: 1px solid black;
+  padding: 20px;
+  margin: 10px;
+  border-spacing: inherit;
+text-align:center;
+background-color:;
+
+}
+th{
+  background-color: black;
+  color:  #ffffff;
+}
+tr:nth-child(even){
+  background-color: #ffff33;
+}
+tr:nth-child(odd){
+  background-color: #e67300;
+
+}
+.jay{
+  background-color:red;
+  color:green;
+}
+.valu{
+  background-color:red;
+  color:blue;
+
+}
+#jay{
+  background-color:green;
+}
+id {
+  background-color:#a2f5fc
+}
